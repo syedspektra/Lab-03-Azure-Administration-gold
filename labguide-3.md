@@ -23,4 +23,4 @@ Generate the users programmatically so the set is consistent: create accounts wh
 > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
 > - If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help you out.
 
-<validation step="dedc820c-54bb-487f-9d51-8fdb8dabf58f" />
+<validation step="62773362-9ed0-4720-8cde-96edade230a6" />
