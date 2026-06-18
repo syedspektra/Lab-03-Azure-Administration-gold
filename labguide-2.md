@@ -26,4 +26,4 @@ Create the logical server (with an admin login and password), then a database on
 > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
 > - If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help you out.
 
-<validation step="9ef32378-8ea3-4fc0-a9fd-7350d22b48ca" />
+<validation step="712ae586-867f-4c13-b654-7fd60e37bbc6" />
