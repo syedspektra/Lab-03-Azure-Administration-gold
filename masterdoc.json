@@ -2,7 +2,6 @@
   {
     "Name": "Azure Administration — VNet, SQL, Entra ID & RBAC (Lab 03)",
     "Language": "English",
-    "BaseURL": "https://raw.githubusercontent.com/Raghavendra-spektra/Mciroland-test/refs/heads/main/Lab-03-Azure-Administration/LabGuidePackage/LabGuide/",
     "Files": [
       {
         "RawFilePath": "https://raw.githubusercontent.com/syedspektra/Lab-03-Azure-Administration-gold/refs/heads/main/GettingStarted.md",
