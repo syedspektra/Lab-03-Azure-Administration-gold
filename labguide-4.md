@@ -26,4 +26,4 @@ Create the user (if you reuse one from Exercise 3 that is fine), then create a r
 > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
 > - If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help you out.
 
-<validation step="86ecfd36-78d5-4d61-94cf-a54cb280731b" />
+<validation step="0bb497d3-ae6e-4145-ae37-2f4fc45f3e24" />
