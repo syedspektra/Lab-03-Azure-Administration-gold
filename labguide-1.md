@@ -23,4 +23,4 @@ Choose a non-overlapping address space (for example `10.10.0.0/16`) and divide i
 > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
 > - If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help you out.
 
-<validation step="6132569e-5e23-4068-b028-ed8eebdb4e77" />
+<validation step="b0913f32-5e37-4976-bb1b-2ca49b034697" />
